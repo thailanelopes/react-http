@@ -1,7 +1,17 @@
-# react-http
-Métodos GET / POST e DELETE 
+# React com Http
 
+Projeto em React com exemplo de requisições HTTP com Fecth API.
 
-## PARA RODAR O PROJETO UTILIZE:
+## Instalar dependencias
 
+```sh
+npm install
+```
+
+## Executar Aplicação
+
+```sh
 npm start
+```
+
+Então abra [http://localhost:3000/](http://localhost:3000/) para ver a Aplicação.
